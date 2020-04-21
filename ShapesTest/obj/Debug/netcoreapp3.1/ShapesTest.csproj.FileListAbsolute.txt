@@ -1,0 +1,13 @@
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task7-8\ShapesTest\obj\Debug\netcoreapp3.1\ShapesTest.csprojAssemblyReference.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task7-8\ShapesTest\obj\Debug\netcoreapp3.1\ShapesTest.csproj.CoreCompileInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task7-8\ShapesTest\obj\Debug\netcoreapp3.1\ShapesTest.AssemblyInfoInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task7-8\ShapesTest\obj\Debug\netcoreapp3.1\ShapesTest.AssemblyInfo.cs
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task7-8\ShapesTest\bin\Debug\netcoreapp3.1\ShapesTest.exe
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task7-8\ShapesTest\bin\Debug\netcoreapp3.1\ShapesTest.deps.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task7-8\ShapesTest\bin\Debug\netcoreapp3.1\ShapesTest.runtimeconfig.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task7-8\ShapesTest\bin\Debug\netcoreapp3.1\ShapesTest.runtimeconfig.dev.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task7-8\ShapesTest\bin\Debug\netcoreapp3.1\ShapesTest.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task7-8\ShapesTest\bin\Debug\netcoreapp3.1\ShapesTest.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task7-8\ShapesTest\obj\Debug\netcoreapp3.1\ShapesTest.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task7-8\ShapesTest\obj\Debug\netcoreapp3.1\ShapesTest.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task7-8\ShapesTest\obj\Debug\netcoreapp3.1\ShapesTest.genruntimeconfig.cache

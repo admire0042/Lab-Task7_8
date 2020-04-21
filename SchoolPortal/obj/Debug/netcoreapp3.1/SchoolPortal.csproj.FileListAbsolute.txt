@@ -1,0 +1,13 @@
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task7-8\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.csprojAssemblyReference.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task7-8\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.csproj.CoreCompileInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task7-8\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.AssemblyInfoInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task7-8\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.AssemblyInfo.cs
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task7-8\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.exe
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task7-8\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.deps.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task7-8\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.runtimeconfig.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task7-8\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.runtimeconfig.dev.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task7-8\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task7-8\SchoolPortal\bin\Debug\netcoreapp3.1\SchoolPortal.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task7-8\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task7-8\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\Lab-Tasks\Lab-Task7-8\SchoolPortal\obj\Debug\netcoreapp3.1\SchoolPortal.genruntimeconfig.cache
